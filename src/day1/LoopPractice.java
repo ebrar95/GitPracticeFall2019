@@ -5,6 +5,7 @@ public class LoopPractice {
 
         for (int i = 10; i < 10; i += 2) {
             System.out.println("Counter :: " + i);
+            System.out.println("Hello there!");
 
 
         }
